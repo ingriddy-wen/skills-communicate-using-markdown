@@ -4,3 +4,5 @@
 #### And smaller...
 ##### And even smaller!
 ###### Until they are very small headers.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
